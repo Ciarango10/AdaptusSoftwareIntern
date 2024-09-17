@@ -1,0 +1,11 @@
+{
+  "name": "adaptus-internship",
+  "version": "1.0.0",
+  "main": "tasks.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
